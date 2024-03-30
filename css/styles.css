@@ -1,0 +1,81 @@
+html,
+.navbar-brand img {
+  height: 50px; 
+}
+body {
+  height: 100%;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+}
+.custom-paragraph {
+  font-size: 18px; 
+}
+.container_contact{
+  margin-left: 300px;
+}
+.gradient {
+  background: rgb(9, 48, 106);
+  background: linear-gradient(
+    135deg,
+    rgb(6, 47, 109) 0%,
+    rgb(34, 91, 152) 100%
+  );
+}
+.page-header {
+  margin-top: 4rem;
+  font-size: 3rem;
+  color: #e8e8e8;
+}
+
+.feature {
+  color: #fff;
+}
+
+.feature ul {
+  padding-left: 2rem;
+  list-style-type: none;
+}
+
+.feature ul li {
+  padding-left: 2rem;
+  background-image: url(../img/check.svg);
+  background-repeat: no-repeat;
+  line-height: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.icon {
+  color: #fff;
+  height: 5rem;
+  width: 5rem;
+  font-size: 1.75rem;
+  border-radius: 100%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.services {
+  color: #fff;
+}
+
+footer {
+  color: #fff;
+  font-size: 1rem;
+  margin-top: 2rem;
+  padding: 1rem;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+.footer{
+  margin: 2rem;
+}
+
+
+
